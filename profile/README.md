@@ -12,6 +12,9 @@ FamPe is transforming the live streaming landscape by empowering creators with i
 - **Real-Time Notifications:** Keep your audience informed with instant updates.
 - **Diverse Payment Options:** Accept payments via multiple methods, including UPI.
 
+### Brand Kit Download
+[Brand Kit](https://fampe-my.sharepoint.com/:f:/g/personal/rishav_fam_pe/EqDWLs_MEatOkhHGOyrVeXkBMyLS3sT9SRWyddO8iAQ7EQ?e=5sbV5Z)
+
 ## Claim Your Custom Short Link
 
 Create a unique short link (e.g., fam.pe/xy) to boost your brand and audience reach. Visit our [website](http://fam.pe/) to claim yours today.
